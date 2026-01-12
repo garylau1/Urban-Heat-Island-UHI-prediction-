@@ -5,6 +5,6 @@ In this project, we developed a sophisticated machine learning regression model 
 - real-time meteorological data(NY_Mesonet_Weather.xlsx)
 - Urban building footprints(Building_Footprint.kml)
   
-In this task, we utilized advanced <b>GeoPandas</b> techniques to perform complex spatial joins and temporal merging, creating a unified geospatial dataset that correlates physical urban morphology with environmental conditions. By training a Random Forest Regressor on this rich feature set, we were able to accurately predict the UHI Index (around 90% accuracy), demonstrating comprehensive proficiency in geospatial data engineering, feature extraction, and predictive modeling for environmental analysis.
+In this task, we utilized advanced <b>GeoPandas</b> techniques to perform complex spatial joins and temporal merging, creating a unified geospatial dataset that correlates physical urban morphology with environmental conditions. By training a Random Forest Regressor on this rich feature set, we were able to accurately predict the UHI Index (around 90% accuracy), demonstrating comprehensive proficiency in geospatial data engineering, feature extraction, and predictive modeling for environmental analysis (See UHI_Experiment_Sample_Benchmark.ipynb).
 
 PS: My work is improved based on EY Data Challenge
